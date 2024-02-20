@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arthur Lima
+Olá, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)meu nome é Arthur Lima!
 ===================================================================================================================================
 
-Estudante de Desenvolvimento em Python
---------------------------------------
+Estudante de Desenvolvimento em Python e Banco de Dados
+--------------------------------------------------------
 
 Profissional formado em Administração de Empresas, buscando oportunidades para atuar como analista de sistemas/desenvolvedor.
  
