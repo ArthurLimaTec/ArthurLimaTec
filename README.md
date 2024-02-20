@@ -4,11 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Estudante de Desenvolvimento em Python
 --------------------------------------
 
-Formado em Administração de Empresas, estudei por 5 anos para concursos públicos, porém escolhi migrar para a área de Tecnologia. Focando em programação e construindo passo a passo minha carreira.
+Profissional formado em Administração de Empresas, buscando oportunidades para atuar como analista de sistemas/desenvolvedor.
+ 
+Tenho experiência em desenvolvimento de sistemas de planilhas para otimizar processos manuais, manipulação de dados em Excel, conhecimento em Python, PySide6, Django, Selenium, Regexp, Testes, TDD, POO e Design Patterns GoF, bem como experiência em Power BI e Banco de Dados SQL. 
 
-* 🌍  I'm based in Nuporanga - SP
-* ✉️  You can contact me at [arthurcoutolima@gmail.com](mailto:arthurcoutolima@gmail.com)
-* 🧠  I'm learning Python 3
+Estou aberto a oportunidades tanto híbridas quanto presenciais ou remotas na área de tecnologia, onde aplicarei essas habilidades e contribuirei de forma significativa para a empresa.
+
+* 🌍  Localizado em Nuporanga - SP
+* ✉️  Contato: [arthurcoutolima@gmail.com](mailto:arthurcoutolima@gmail.com)
 
 ### Skills
 
