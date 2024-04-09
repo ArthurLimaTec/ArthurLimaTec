@@ -4,7 +4,7 @@ Olá, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Desenvolvedor Backend Java e Banco de Dados
 --------------------------------------------------------
 
-Profissonal buscando oportunidade para atuar como analista de sistemas/desenvolvedor.
+Profissional buscando oportunidade para atuar como analista de sistemas/desenvolvedor.
 
 Tenho experiência em desenvolvimento de sistemas de planilhas para otimizar processos manuais, manipulação de dados em Excel, conhecimento em Python, PySide6, Django, Selenium, Regexp, Testes, TDD, POO e Design Patterns GoF, bem como experiência em Power BI e Banco de Dados SQL. 
 
