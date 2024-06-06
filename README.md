@@ -4,13 +4,15 @@ Olá, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 Desenvolvedor Backend Java e Banco de Dados
 --------------------------------------------------------
 
-Profissional buscando oportunidade para atuar como analista de sistemas/desenvolvedor.
+Profissional com experiência em desenvolvimento de backend em Java, SpringBoot e Python, cursando Técnico em Desenvolvimento de Sistemas no Senac. 
 
-Tenho experiência em desenvolvimento de sistemas de planilhas para otimizar processos manuais, manipulação de dados em Excel, conhecimento em Python, PySide6, Django, Selenium, Regexp, Testes, TDD, POO e Design Patterns GoF, bem como experiência em Power BI e Banco de Dados SQL. 
+No projeto "Tô Chegando", sou responsável por todo o Backend (Java) e Banco de Dados (PostgreSQL), desde a criação de microsserviços até a implementação de APIs Restful. Utilizando o SpringBoot para garantir a eficiência e a escalabilidade do sistema, enquanto a conexão com bancos de dados permite o armazenamento e a manipulação segura de dados. 
+Trabalhei em colaboração com a equipe, seguindo os princípios de desenvolvimento ágil para garantir entregas no prazo e com qualidade.  Complementar ao conhecimento em Java, possuo conhecimentos em deploy com conteinerização Docker no Google Cloud Plataform (GCP) e por meio do Google Kubernetes Engine (GKE), TDD, estruturação de MVC, tratamento de erros, DTO, JWT e JavaDoc. 
 
-Com o início do projeto do aplicativo "Tô Chegando!", migrei meus estudo para Java, adquirindo conhecimentos para trabalhar com SpringBoot, APIRestFull, conexão com Bancos de Dados, Deploy, estruturação de Microsserviços, TDD, estruturação de MVC, tratamento de erros, DTO, JWT e JavaDoc.
+Experiente em desenvolvimento de sistemas de planilhas para otimizar processos manuais, manipulação de dados em Excel, conhecimento em Python, Flask, integração com APIs da OpenAi, PySide6, Django, Selenium, Regexp, Testes, TDD, POO e Design Patterns GoF, bem como experiência em Power BI e Banco de Dados SQL.  
 
-Estou aberto a oportunidades tanto híbridas quanto presenciais ou remotas na área de tecnologia, onde aplicarei essas habilidades e contribuirei de forma significativa para a empresa.
+Estou aberto a oportunidades tanto híbridas quanto presenciais ou remotas na área de tecnologia, onde aplicarei essas habilidades e contribuirei de forma significativa para a empresa. 
+
 
 * 🌍  Localizado em Nuporanga - SP
 * ✉️  Contato: [arthurcoutolima@gmail.com](mailto:arthurcoutolima@gmail.com)
