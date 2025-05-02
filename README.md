@@ -16,7 +16,7 @@ Estou aberto a oportunidades tanto híbridas quanto presenciais ou remotas na á
 
 * 🌍  Localizado em Nuporanga - SP
 * ✉️  Contato: [arthurcoutolima@gmail.com](mailto:arthurcoutolima@gmail.com)
-* 🔭 Trabalhando no projeto: [TIM MAIS]
+* 🔭 Trabalhando no projeto: [TIM Mais]
 
 ### Skills
 
